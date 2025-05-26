@@ -1,0 +1,7 @@
+text_blind_watermark
+gradio
+blind_watermark
+opencv-python
+numpy
+pillow
+crypt_tool
